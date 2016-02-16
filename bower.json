@@ -1,0 +1,17 @@
+{
+  "name": "RestFulEjercicio1",
+  "version": "0.0.1",
+  "authors": [
+    "Nelug"
+  ],
+  "license": "EULA",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
